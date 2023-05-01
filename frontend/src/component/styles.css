@@ -1,0 +1,17 @@
+.messages {
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    scrollbar-width: none;
+  
+  }
+  .notifCount {
+    color: rgb(242, 241, 240);
+    font-weight: bold;
+    background-color: red;
+    border-radius: 100%;
+    padding-left: 3px;
+    padding-right: 3px;
+    position: absolute;   
+    
+  }
